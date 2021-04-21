@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912116655705",
+    "project_id": "kotlin-project-cb4ad",
+    "storage_bucket": "kotlin-project-cb4ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912116655705:android:111f67bf80129eeaa5f348",
+        "android_client_info": {
+          "package_name": "com.bignerdranch.android.points"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912116655705-c0jpprmq27cah9a74oaqfdfca9tk0qsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0dYifUGUPx3Sx8oGKI8Hk4_fOvXNCL30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912116655705-c0jpprmq27cah9a74oaqfdfca9tk0qsr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
